@@ -11,4 +11,16 @@
 **Link to blog** [Day 0](https://www.tumblr.com/sweetieupgrade/773302266757316608/tuesday-210125)
 **Link to work:** [Dice Website](https://github.com/cinnamon-bee/projects-freetime/blob/main/index.html)
 
+### Day 1: Friday, 24/01/25
+
+<h1 align="center">Day 1: Friday, January 24th 2025</h1>
+
+**Today's Progress**: Unfortunately was only able to do some more tutorials and edit a bit of the Dice Website layout.
+
+**Thoughts:** -
+
+**Link to blog** [Day 1](https://www.tumblr.com/sweetieupgrade/773581399992172544/friday-2401)
+**Link to work:** [Dice Website](https://github.com/cinnamon-bee/projects-freetime/blob/main/index.html)
+
+
 
